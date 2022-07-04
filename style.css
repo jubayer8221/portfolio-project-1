@@ -11,7 +11,7 @@ p {
     margin-right: 10%;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 10%;
 
@@ -56,4 +56,13 @@ section {
     background-image: url(/image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.full-stack {
+    margin: 5%;
+    bac
+}
+
+.baby-web {
+    margin: 5%;
 }
