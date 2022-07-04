@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .name {
     color: rgb(255, 123, 29);
 }
@@ -9,6 +13,11 @@ p {
 
 section {
     display: flex;
+}
+
+.top-banner {
+    background-image: url(/image/top-banner.png);
+    background-repeat: no-repeat;
 }
 
 .half-width {
