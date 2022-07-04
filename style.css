@@ -7,12 +7,14 @@ body {
 }
 
 p {
-
     text-align: justify;
+    margin-right: 10%;
 }
 
 section {
     display: flex;
+    margin-bottom: 10%;
+
 }
 
 .top-banner {
@@ -38,4 +40,20 @@ section {
     font-weight: 400px;
     background-image: linear-gradient(orange, tomato);
 
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.second-section {
+    display: flex;
+    background-image: url(/image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
