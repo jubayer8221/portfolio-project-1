@@ -1,3 +1,32 @@
-h1{
-    color: rgb(0, 0, 87);
+.name {
+    color: rgb(255, 123, 29);
+}
+
+p {
+
+    text-align: justify;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+    font-weight: 400px;
+    background-image: linear-gradient(orange, tomato);
+
 }
