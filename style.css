@@ -18,7 +18,7 @@ p {
 }
 
 .top-banner {
-    background-image: url(/image/top-banner.png);
+    background-image: url(/top-banner.png);
     background-repeat: no-repeat;
 }
 
@@ -44,7 +44,7 @@ p {
 
 .second-section {
     display: flex;
-    background-image: url(/image/dream-bg.png);
+    background-image: url(/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -72,7 +72,7 @@ h2 {
 }
 
 .experiance-area {
-    background-image: url(/image/exp-bg.png);
+    background-image: url(/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
